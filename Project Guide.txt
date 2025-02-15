@@ -1,0 +1,2 @@
+
+1. Check .NET SDK installed or not.	// at the time of testing i've installed .NET 8
